@@ -11,7 +11,7 @@ Here are some ideas to get you started:
   
 -->
 - 🔭 I’m currently working on projects
-- 🌱 I’m currently learning React, python and JS
+- 🌱 I’m currently learning From development, React, python and JS
 - 👯 I’m looking to collaborate on OSS
 - 📫 How to reach me: Maycol1414Cp@gmail.com
 - 😄 Pronouns: he/him
